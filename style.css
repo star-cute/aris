@@ -238,7 +238,7 @@ body {
     width:100%;
     height:300px;
    /* background: linear-gradient(135deg, #003d3d, #0077b6, #00b894);*/
-    background-image: url("img/bannerrr.png");
+    background-image: url("img/bannerr.png");
     background-repeat: no-repeat;
     border-bottom-left-radius: 40px;
     border-bottom-right-radius: 40px;
@@ -416,4 +416,5 @@ body {
         background-size: cover;
     }
 }
+
 
