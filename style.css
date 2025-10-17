@@ -311,6 +311,16 @@ body {
 .article h3{ font-size:16px; margin-bottom:8px; color:#003d3d; }
 .article p{ font-size:13px; color:#555; }
 
+@media(max-width:768px){
+    .header {
+        height: 120px; /* ارتفاع بنر کمتر می‌شود */
+        width: 100%;
+        background-image: url('img/bannerr.png'); /* بنر مخصوص موبایل */
+        font-size: 1.2rem; /* متن کوچک‌تر */
+        background-size: cover;
+    }
+}
+
 /* =======================
    LOGIN PAGE
 ======================= */
@@ -406,3 +416,4 @@ body {
         background-size: cover;
     }
 }
+
